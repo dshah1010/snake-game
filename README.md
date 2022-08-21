@@ -12,11 +12,9 @@ This game was built using the pyGame module in Python.
 # Usage
 If you would like to download my project, these are the steps:
 <ol>
-  ````
-  ```
   <li>
+    ```
     git clone 
+    ```
   </li>
-  ```
-  ````
 </ol>
