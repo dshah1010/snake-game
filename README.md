@@ -12,5 +12,5 @@ This game was built using the pyGame module in Python.
 # Usage
 If you would like to download my project, these are the steps:
 <ol>
-  <li></li>
+  <li>git clone https://github.com/dshah1010/snake-game.git</li>
 </ol>
