@@ -1,5 +1,5 @@
 # Snake Game
-A simple snake game to play when you're bored!
+A simple snake game with great animation and sound to play when you're bored!
 
 # Demo
 
@@ -11,4 +11,4 @@ This game was built using the pyGame module in Python.
 
 # Usage
 If you would like to download my project, these are the steps:
-
+  1. 
