@@ -11,4 +11,6 @@ This game was built using the pyGame module in Python.
 
 # Usage
 If you would like to download my project, these are the steps:
-  1. 
+<ol>
+  <li></li>
+</ol>
