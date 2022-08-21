@@ -17,4 +17,15 @@ If you would like to download my project, these are the steps:
           git clone https://github.com/dshah1010/snake-game.git
           ```
        </li>
+       <li>
+          ```
+          pip install pygame
+          ```
+       </li>
+       <li>
+          Run 
+          ```
+          snakeGame.py
+          ```
+       </li>
        </ol>
