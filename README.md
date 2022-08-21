@@ -14,7 +14,7 @@ If you would like to download my project, these are the steps:
         <ol>
         <li>
           ```
-          git clone 
+          git clone https://github.com/dshah1010/snake-game.git
           ```
        </li>
        </ol>
