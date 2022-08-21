@@ -4,4 +4,7 @@ Games are cool, and who doesn't like playing games when they're bored? Well, I l
 Technologies: Python, pyGame
 
 # Demo
-https://user-images.githubusercontent.com/104474913/185725502-29b24d49-b6b8-49b4-a02f-405c487816a2.mov
+
+
+https://user-images.githubusercontent.com/104474913/185773373-dd4777ff-67ee-42e4-9254-631e38e69ec6.mov
+
