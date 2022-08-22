@@ -13,11 +13,15 @@ This game was built using the pyGame module in Python.
 If you would like to download my project, these are the steps:
         <ol>
         <li>
+          Go to the directory you want in your command line and write:
+          
           ```
           git clone https://github.com/dshah1010/snake-game.git
           ```
        </li>
        <li>
+          Write the following in the terminal:
+          
           ```
           pip install pygame
           ```
